@@ -1,0 +1,8 @@
+{
+    "name": "express-example-for-kieran",
+    "version": "1.0.0",
+    "author": "Express (just taken from their site)",
+    "dependencies": {
+        "express":"4.21.2"
+    }
+  }
